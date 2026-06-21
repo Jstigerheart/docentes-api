@@ -3,7 +3,7 @@
 
 Este repositorio contiene una API Rest en SpringBoot para la materia de APOO, donde se registran las operaciones de:
 -
-- Crear Crear Docente
+- Crear Docente
 - Obtener todos los docentes creados
 - Actualizar Docente
 - Eliminar Docente
